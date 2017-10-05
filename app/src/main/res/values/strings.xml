@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mytoratora</string>
+    <string name="result_lose">あなたの負けです</string>
+    <string name="result_draw">あいこです</string>
+    <string name="result_win">あなたの勝ちです</string>
+    <string name="back_text">戻る</string>
+</resources>
